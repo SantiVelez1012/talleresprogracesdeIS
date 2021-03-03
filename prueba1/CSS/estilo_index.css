@@ -1,6 +1,23 @@
+h3{
+    color: white;
+}
 body{
+    
     background-color: black;
 }
 
+footer{
+    background-color: blue;
+}
 
-<link rel="stylesheet" href="CSS/estilo_index.css" type="text/css" media="all">
+h1{
+    color:white;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    color:white;
+}
