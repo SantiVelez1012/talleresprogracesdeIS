@@ -1,17 +1,43 @@
 .pContenido{
 
+    
 
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lora', serif;
     
 }
 
 .pContenido2{
 
-
+    font-family: 'Lora', serif;
 
 }
 
 .cMinas{
 
+    background-image: url(../IMG/altominas.jpg);
+    background-size: cover;
+    
+}
 
+.tituloContenido{
+
+
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lora', serif;
+    
+
+}
+
+
+.tituloContenido2{
+    
+    font-family: 'Lora', serif;
+
+}
+
+.piedePagina{
+
+    background-color: rgb(118, 130, 151);
 
 }
