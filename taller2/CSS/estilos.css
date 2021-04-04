@@ -1,0 +1,31 @@
+.navbar-bg-morado{
+
+    background-color: #CE3535;
+
+}
+.imgresponsive1{
+
+    max-width: 910px;
+    max-height: 400px;
+
+}
+
+body{
+
+    background-color: antiquewhite;
+}
+
+div.row{
+
+    margin-right: 0;
+    margin-left: 0;
+
+}
+
+.iconos{
+
+    max-width: 130px;
+    max-height: 130px;
+    padding-left: 30px;
+
+}
